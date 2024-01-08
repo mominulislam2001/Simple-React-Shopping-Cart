@@ -1,0 +1,12 @@
+.totalPriceContainer {
+    display: flex;
+    justify-content: center; 
+    margin-top: 100px;
+    height: 30vh;
+    
+  }
+  
+.totalPrice {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }

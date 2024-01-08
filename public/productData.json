@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Quantum Blender",
+      "category": "Kitchen Appliances",
+      "price": 149.99,
+      "stock": 50,
+      "image": "https://example.com/quantum_blender.jpg"
+    },
+    {
+      "id": 2,
+      "name": "LunarGlow Smart Pillow",
+      "category": "Home & Living",
+      "price": 69.99,
+      "stock": 100,
+      "image": "https://example.com/lunarglow_pillow.jpg"
+    },
+    {
+      "id": 3,
+      "name": "NeuroSync Mind Enhancer",
+      "category": "Health & Wellness",
+      "price": 199.99,
+      "stock": 25,
+      "image": "https://example.com/neurosync_mind_enhancer.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Infinite Socks",
+      "category": "Fashion",
+      "price": 14.99,
+      "stock": 200,
+      "image": "https://example.com/infinite_socks.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Galactic Gaming Chair",
+      "category": "Electronics",
+      "price": 299.99,
+      "stock": 10,
+      "image": "https://example.com/galactic_gaming_chair.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Galactic Gaming Chair",
+      "category": "Electronics",
+      "price": 299.99,
+      "stock": 10,
+      "image": "https://example.com/galactic_gaming_chair.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Galactic Gaming Chair",
+      "category": "Electronics",
+      "price": 299.99,
+      "stock": 10,
+      "image": "https://example.com/galactic_gaming_chair.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Galactic Gaming Chair",
+      "category": "Electronics",
+      "price": 299.99,
+      "stock": 10,
+      "image": "https://example.com/galactic_gaming_chair.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Galactic Gaming Chair",
+      "category": "Electronics",
+      "price": 299.99,
+      "stock": 10,
+      "image": "https://example.com/galactic_gaming_chair.jpg"
+    }
+]
